@@ -54,6 +54,7 @@ def QR_Decomposition(A):
     
     
     
+    
 a = np.array(eval(input()))
 QR_Decomposition(a)
 
